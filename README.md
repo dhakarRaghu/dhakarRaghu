@@ -10,22 +10,22 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building:
-  - [GitBuddy](https://gitbuddy.raghvendra.tech) – AI-powered GitHub SaaS  
   - [Insights](https://insights.raghvendra.tech) – AI-based personalized learning platform
+  - [GitBuddy](https://gitbuddy.raghvendra.tech) – AI-powered GitHub SaaS  
 - 🌱 Learning: `LangChain`, `Nest.js`, `System Design`, `LLM APIs`
 - 💬 Ask me about: `React`, `Next.js`, `Node.js`, `PostgreSQL`, `Prisma`
 - 📫 Reach out: **raghvendrasinghdhakar2@gmail.com**
 - 🌐 Portfolio: [portfolio.raghvendra.tech](https://portfolio.raghvendra.tech)
-- 📄 [Resume](https://drive.google.com/file/d/1RybEzTghYTRfNFAEJL3BAlOqkDYPXET5/view)
+- 📄 [Resume](https://drive.google.com/file/d/1CSQ3QZIqAtLaFiETXlbumaOEppgEFhZF/view?usp=drive_link)
 
 ---
 
 ### 🧠 Competitive Programming
 
+- 🔥 Codeforces – **Expert (1686)**
+- 🧠 LeetCode – **Knight (2043)** | Top **2%**
+- 🥉 CodeChef – **4⭐ (1818)** | Global Rank **72** (Starters 183)
 - ✅ Solved 1000+ DSA problems
-- 🥉 CodeChef – **3⭐ (1693)** | Global Rank **34** (Starters 123)
-- 🔥 Codeforces – **Expert (1614)**
-- 🧠 LeetCode – **Knight (1989)** | Top **2.7%**
 
 ---
 
