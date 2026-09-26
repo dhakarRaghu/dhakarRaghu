@@ -1,76 +1,45 @@
-<h1 align="center">Hi there! 👋 I'm Raghvendra Singh Dhakar</h1>
+## Hi, I'm Raghvendra Singh Dhakar
 
-<p align="center">
-🚀 A passionate <strong>Full-Stack Developer</strong> and <strong>AI Enthusiast</strong> with a love for building scalable systems and solving real-world problems.<br/>
-🎓 B.Tech CSE @ <a href="https://iiitn.ac.in" target="_blank">IIIT Nagpur</a> | 2022–2026
-</p>
+Software engineer in Bengaluru, working on backend systems and applied AI.
 
----
+### Now
 
-### 👨‍💻 About Me
+- **[Juspay](https://juspay.io/)**, Product Engineer. I work on BreezeBuddy.ai, a conversational AI product. I built its chatbot-to-human handoff, which moves a conversation to a live agent with the full context, and its guardrail layer, which checks every voice and text reply for prompt injection, toxicity, policy violations and off-topic answers, with rules each tenant can set without a code change.
+- **Mission HQ**, on the side. A self-hosted multi-agent system that runs on my laptop. Its agents study with me, write my daily note and draft what I publish. Nothing leaves the machine without my approval. Python, DBOS, Pydantic AI, FastAPI, Next.js. Private for now.
+- **Learning** how LLM systems behave in production: inference, retrieval, agents and evals. I test what I read with small labs before I believe it.
 
-- 🔭 Currently building:
-  - [Insights](https://insights.raghvendra.tech) – AI-based personalized learning platform
-  - [GitBuddy](https://gitbuddy.raghvendra.tech) – AI-powered GitHub SaaS  
-- 🌱 Learning: `LangChain`, `Nest.js`, `System Design`, `LLM APIs`
-- 💬 Ask me about: `React`, `Next.js`, `Node.js`, `PostgreSQL`, `Prisma`
-- 📫 Reach out: **raghvendrasinghdhakar2@gmail.com**
-- 🌐 Portfolio: [portfolio.raghvendra.tech](https://portfolio.raghvendra.tech)
-- 📄 [Resume](https://drive.google.com/file/d/1CSQ3QZIqAtLaFiETXlbumaOEppgEFhZF/view?usp=drive_link)
+### Before
 
----
+- **[Mindtickle](https://www.mindtickle.com/)**, SDE Intern, AI and backend systems, Aug 2025 to Jul 2026. I shipped LanguageAndVoiceService, a Go gRPC service that moved voice configuration from code into the database, so new voices and languages went live without a deploy, across 25+ languages and 800+ voices. I also built the voice lifecycle pipeline with ElevenLabs and the evaluation pipeline for AI roleplay with Maxim.
+- **[Verly](https://verlyai.xyz)**, co-founder, Nov 2025 to May 2026. An AI customer support platform across web chat, WhatsApp and voice. I built the agent stack in Go: a graph-based RAG pipeline, identity verification, per-tenant tools through custom MCP servers, and the analytics layer.
 
-### 🧠 Competitive Programming
+### Projects
 
-- 🔥 Codeforces – **Expert (1686)**
-- 🧠 LeetCode – **Knight (2043)** | Top **2%**
-- 🥉 CodeChef – **4⭐ (1818)** | Global Rank **72** (Starters 183)
-- ✅ Solved 1000+ DSA problems
+| Project | What it is |
+|---|---|
+| [Portfolio](https://github.com/dhakarRaghu/Portfolio) | My site. Blog, notes and projects as markdown, built with Next.js |
+| [Insights](https://github.com/dhakarRaghu/Insights) | AI learning platform that generated 100+ courses, with a Gemini content pipeline and quizzes |
+| [GitBuddy](https://github.com/dhakarRaghu/GitBuddy) | AI SaaS that answers questions about a codebase and summarises commit history |
+| [Microservices-GoLang](https://github.com/dhakarRaghu/Microservices-GoLang) | Account, catalog and order services in Go behind a GraphQL gateway, each with its own database, run with Docker Compose |
 
----
+### Competitive programming
 
-### 💻 Tech Stack
+- **Codeforces:** [Expert](https://codeforces.com/profile/00.ghost), max rating 1800
+- **LeetCode:** [Guardian](https://leetcode.com/u/cGJXZbKT0C/), rating 2147, top 1.2%. Rank 220 of 27,000+ in Weekly Contest 446
+- **CodeChef:** [4 star](https://www.codechef.com/users/raghvendra_04), rating 1993, global rank 72 in Starters 183
 
-**Languages:**  
-`C` `C++` `Python` `JavaScript` `TypeScript`
+### Stack
 
-**Frontend:**  
-`React.js` `Next.js` `Tailwind CSS`
+- **Languages:** Go, TypeScript, Python, Java, C++, SQL
+- **Backend:** gRPC and Protobuf, REST, WebSockets, microservices, hexagonal architecture
+- **AI:** RAG, MCP, LangChain, LLM evaluation (Maxim), ElevenLabs, Gemini
+- **Infra:** Docker, Kubernetes and Helm, AWS (Bedrock, EC2, RDS), Redis, Datadog, Grafana, GitLab CI
+- **Data:** PostgreSQL, MySQL, MongoDB, Prisma, Drizzle, Supabase
 
-**Backend:**  
-`Node.js` `Express.js` `Prisma` `Redis` `WebSockets`
+### Education
 
-**Databases:**  
-`PostgreSQL` `MongoDB` `Supabase`
+B.Tech in Computer Science and Engineering, [IIIT Nagpur](https://iiitn.ac.in), 2022 to 2026. Core member of the Google Developer Group, where I ran competitive programming sessions and mentored 100+ students.
 
-**DevOps / Tools:**  
-`Docker` `Git` `GitHub` `Postman`
+### Contact
 
-**AI/ML Tools:**  
-`Google Gemini AI` `Assembly AI` `Langchain`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhakarRaghu&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakarRaghu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/raghvendra1853"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/dhakarRaghu"><img src="https://img.shields.io/badge/-GitHub-000?logo=github" /></a>
-  <a href="https://codeforces.com/profile/00.ghost"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces" /></a>
-  <a href="https://www.codechef.com/users/raghvendra_04"><img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef" /></a>
-  <a href="https://leetcode.com/u/cGJXZbKT0C/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-> I debug better at 2 AM than 2 PM 😄
+[Email](mailto:raghvendrasinghdhakar2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghvendra1853/) · [Résumé (PDF)](https://github.com/dhakarRaghu/Portfolio/blob/main/public/Raghvendra-Singh-Dhakar-Resume.pdf)
