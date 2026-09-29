@@ -26,7 +26,7 @@ I build the layer between a language model and the people who use it: retrieval,
 
 | Project | What it is | Built with |
 |---|---|---|
-| [Portfolio](https://github.com/dhakarRaghu/Portfolio) | My site: blog, notes and projects as markdown | Next.js, TypeScript |
+| MissionHQ | A self-hosted multi-agent system. Agents share one task board and one markdown vault, study with me, write my daily note and draft what I publish.| Python DBOS Pydantic AI Next.js |
 | [Insights](https://github.com/dhakarRaghu/Insights) | AI learning platform that generated **100+ courses**, with a content pipeline and quizzes | Next.js, Gemini, PostgreSQL |
 | [GitBuddy](https://github.com/dhakarRaghu/GitBuddy) | Answers questions about a codebase and summarises commit history | Next.js, Gemini, AssemblyAI |
 
