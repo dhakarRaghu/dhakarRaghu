@@ -7,9 +7,10 @@ I build the layer between a language model and the people who use it: retrieval,
 
 ### Now
 
-- **[Juspay](https://juspay.io/)**, Product Engineer, since Jul 2026. I work on BreezeBuddy.ai, a conversational AI product.
-  - Built the **chatbot-to-human handoff**: a conversation moves to a live agent with its full context.
-  - Built the **guardrail layer** for voice and text agents: it checks each reply for prompt injection, toxicity, policy violations and off-topic answers, and each tenant sets its own rules **without a code change**.
+- **[Juspay](https://juspay.io/)**, Product Engineer, since Jul 2026. I work on Breeze Buddy, a conversational AI product.
+  - Built configurable **guardrails** for voice and chat agents: a platform focus policy, plus input and output policies that each merchant sets per agent **without a deploy**.
+  - Shipped **Buddy Assist** commerce features for Shopify stores: **one-click onboarding** that crawls the merchant's website and creates a tailored agent, **virtual try-on**, and **order tracking (WISMO)**.
+  - Worked on NPCI's **Unified Agentic Protocol (UAP)**, which lets AI agents make UPI payments within limits the user sets, and integrated it into Breeze Buddy Assist for **Namma Yatri**.
 - **Mission HQ**, on the side. A self-hosted multi-agent system that runs on my laptop. Its agents study with me, write my daily note and draft what I publish. **Nothing leaves the machine without my approval.** Python, DBOS, Pydantic AI, FastAPI, Next.js. Private for now.
 - **Learning** how LLM systems behave in production: inference, retrieval, agents and evals. I test what I read with small labs before I believe it.
 
@@ -26,7 +27,7 @@ I build the layer between a language model and the people who use it: retrieval,
 
 | Project | What it is | Built with |
 |---|---|---|
-| MissionHQ | A self-hosted multi-agent system. Agents share one task board and one markdown vault, study with me, write my daily note and draft what I publish.| Python DBOS Pydantic AI Next.js |
+| MissionHQ | A self-hosted multi-agent system. Agents share one task board and one markdown vault, study with me, write my daily note and draft what I publish. | Python, DBOS, Pydantic AI, Next.js |
 | [Insights](https://github.com/dhakarRaghu/Insights) | AI learning platform that generated **100+ courses**, with a content pipeline and quizzes | Next.js, Gemini, PostgreSQL |
 | [GitBuddy](https://github.com/dhakarRaghu/GitBuddy) | Answers questions about a codebase and summarises commit history | Next.js, Gemini, AssemblyAI |
 
@@ -34,19 +35,19 @@ I build the layer between a language model and the people who use it: retrieval,
 
 | Platform | Rating | Highlight |
 |---|---|---|
-| [Codeforces](https://codeforces.com/profile/00.ghost) | **Expert**, max 1800 | |
+| [Codeforces](https://codeforces.com/profile/00.ghost) | **Expert**, max 1801 | |
 | [LeetCode](https://leetcode.com/u/cGJXZbKT0C/) | **Guardian**, 2147 | Top 1.2%. Rank 220 of 27,000+ in Weekly Contest 446 |
 | [CodeChef](https://www.codechef.com/users/raghvendra_04) | **4 star**, 1993 | Global rank 72 in Starters 183 |
 
 ### Stack
 
 - **Languages:** Go, TypeScript, Python, Java, C++, SQL
-- **Backend:** gRPC and Protobuf, REST, WebSockets, microservices, hexagonal architecture
-- **AI:** RAG, MCP, LangChain, LLM evaluation (Maxim), ElevenLabs, Gemini
+- **Backend:** gRPC and Protobuf, REST, FastAPI, WebSockets, microservices, hexagonal architecture
+- **AI:** RAG, MCP, guardrails, voice agents, LangChain, LLM evaluation (Maxim), ElevenLabs, Gemini
 - **Infra:** Docker, Kubernetes and Helm, AWS (Bedrock, EC2, RDS), Redis, Datadog, Grafana, GitLab CI
 - **Data:** PostgreSQL, MySQL, MongoDB, Prisma, Drizzle, Supabase
 
 ### Education
 
-**B.Tech, Computer Science and Engineering**, [IIIT Nagpur](https://iiitn.ac.in), 2022 to 2026.
+**B.Tech, Computer Science and Engineering**, [IIIT Nagpur](https://iiitn.ac.in), Nov 2022 to May 2026.
 Core member of the Google Developer Group: ran competitive programming sessions and mentored 100+ students.
