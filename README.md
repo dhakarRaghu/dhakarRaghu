@@ -3,7 +3,7 @@
 Software engineer in Bengaluru, working on backend systems and applied AI.
 I build the layer between a language model and the people who use it: retrieval, agents, guardrails and evals.
 
-[Email](mailto:raghvendrasinghdhakar2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghvendra1853/) · [Portfolio](https://raghvendra.xyz)
+[Email](mailto:raghvendrasinghdhakar2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raghvendradhakar/) · [Portfolio](https://raghvendra.xyz)
 
 ### Now
 
